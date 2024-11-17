@@ -5,14 +5,15 @@
 </p>
 
 <h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
-<h3 align="center">We all have code in our DNA, but life is not just code. That's why you'll see me making fun projects of things I love.</h3>
 
 <br>
-
-<h3 align="center" style="font-size: 1.5rem;">Languages / Frameworks (in order of proficiency left > right)</h3>
+<h3 align="center">We all have code in our DNA, but life is not just code. That's why you'll see me making fun projects of things I love.</h3>
+<br>
 
 <hr style="width:75%; margin:0 auto;">
 <br>
+
+<h3 align="center" style="font-size: 1.5rem;">Languages / Frameworks (in order of proficiency left > right)</h3>
 
 <p align="left">
   <b>Web Development</b>
@@ -73,13 +74,11 @@
   <a href='https://ko-fi.com/tomoyap' target='_blank'><img height='40' width="150" src='https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo-p-500.png' alt='Buy Coffee for Tomoya P' /></a>
 </p>
 
-<hr>
+<hr style="width:75%; margin:0 auto;">
 <br>
 
 <h3 align="center" style="font-size: 1.5rem;">My Favourite Things</h3>
 
-<hr style="width:75%; margin:0 auto;">
-<br>
 
 <p align="center"><b>Writing</b> - I love all forms of literature. Writing poems, short stories, and novels (wip) whenever the creative juices flow. Don't read physical books as much anymore.</p>
 <p align="center"><b>Music</b> - Appreciate and listen to almost all genres.</p>
@@ -99,3 +98,9 @@
 <br>
 
 <p align="center">Never stop loving yourself and being true to who you are. Don't be afraid to love what you love. <b>It's what makes life worth living.</b></p>
+
+<br>
+
+<p align="center">
+  <img src="img/violet-evergarden.webp" alt="Violet Evergarden" width="100%" height="auto">
+</p>
