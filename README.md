@@ -104,5 +104,3 @@
 <p align="center">
   <img src="img/violet-evergarden-parasol.gif" alt="Violet Evergarden" width="100%" height="auto">
 </p>
-
-<br>
