@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tomoya-p.github.io/">
-    <img src="https://i.ibb.co/bJLbcGP/Timeline-1.gif" alt="Profile banner image">
+    <img src="https://i.ibb.co/bJLbcGP/Timeline-1.gif" alt="Profile banner image" width="100%" height="auto">
   </a>
 </p>
 
