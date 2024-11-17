@@ -4,12 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Welcome, I'm Tomoya P.</h1>
+![Testing](https://i.ibb.co/bJLbcGP/Timeline-1.gif)
+
+<h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
 <h3 align="center">We all have code in our DNA, but life is not just code. That's why you'll see me making fun projects of things I love.</h3>
-
-<br>
-
-<p align="center">:blue_heart:</p>
 
 <br>
 
