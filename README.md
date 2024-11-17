@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://tomoya-p.github.io/">
-    <img src="https://i.ibb.co/bJLbcGP/Timeline-1.gif" alt="Profile banner image" width="100%" height="auto">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMzNG9yczN4M2E5ZmluNHpodHI1dzR4MHQ5ZDhobGdjaTZ0ZGlheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2Etb5X5O2Y6oNaka5/giphy.gif" alt="Profile banner image" width="100%" height="auto">
   </a>
 </p>
-
-![Testing](https://i.ibb.co/bJLbcGP/Timeline-1.gif)
 
 <h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
 <h3 align="center">We all have code in our DNA, but life is not just code. That's why you'll see me making fun projects of things I love.</h3>
