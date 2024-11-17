@@ -1,4 +1,8 @@
-[![MasterHead](https://i.ibb.co/bJLbcGP/Timeline-1.gif)](https://tomoya-p.github.io/)
+<p align="center">
+  <a href="https://tomoya-p.github.io/">
+    <img src="https://i.ibb.co/bJLbcGP/Timeline-1.gif" alt="Profile banner image">
+  </a>
+</p>
 
 <h1 align="center">Welcome, I'm Tomoya P.</h1>
 <h3 align="center">We all have code in our DNA, but life is not just code. That's why you'll see me making fun projects of things I love.</h3>
