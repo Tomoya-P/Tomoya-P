@@ -7,7 +7,7 @@
 <h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
 
 <br>
-<h3 align="center">We all have code in our DNA, but life is not just code. That's why you'll see me making fun projects of things I love.</h3>
+<h3 align="center">We all have code in our DNA, but life is more than just code. That's why you'll see me making fun projects of things I love.</h3>
 <br>
 
 <hr style="width:75%; margin:0 auto;">
@@ -78,7 +78,6 @@
 <br>
 
 <h3 align="center" style="font-size: 1.5rem;">My Favourite Things</h3>
-
 
 <p align="center"><b>Writing</b> - I love all forms of literature. Writing poems, short stories, and novels (wip) whenever the creative juices flow. Don't read physical books as much anymore.</p>
 <p align="center"><b>Music</b> - Appreciate and listen to almost all genres.</p>
