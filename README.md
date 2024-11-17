@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tomoya-p.github.io/">
+  <a href="https://tomoya-p.github.io/" target="_blank">
     <img src="img/githubbanner-compressed.gif" alt="Profile banner image" width="100%" height="auto">
   </a>
 </p>
