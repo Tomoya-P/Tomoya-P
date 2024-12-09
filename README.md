@@ -83,8 +83,8 @@
 <p align="center"><b>Music</b> - Appreciate and listen to almost all genres.</p>
 <p align="center"><b>Art</b> - Wanted to be an artist in the past. Still a fun hobby though.</p>
 <p align="center"><b>Nature</b> - Touching grass and going out for walks in the park. Also taking photos of nature scenery. It's why you'll find lots of flowers and plants in my projects.</p>
-<p align="center"><b>Anime</b> - Been watching anime my whole life. I'm more into beautiful romance stories these days. Favourite anime is Violet Evergarden.</p>
-<p align="center"><b>Games</b> - Frowned upon by society for the longest time, but they've been my escape ever since I was a child. They've helped me through so many tough times - helped shaped my identity and creativity. Hobbies, games, passions, are an integral part of my life. And nothing will ever change that.</p>
+<p align="center"><b>Anime</b> - Been watching anime my whole life. I'm more into romance stories these days. Favourite anime is Violet Evergarden.</p>
+<p align="center"><b>Games</b> - Helped shape my identity and creativity. Puzzle solving skills first stem from passion.</p>
 <p align="center"><b>Programming</b> - Why is this here? <i>Kidding.</i></p>
 
 <br>
