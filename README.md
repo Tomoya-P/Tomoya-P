@@ -7,7 +7,7 @@
 <h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
 
 <br>
-<h3 align="center">We all have code in our DNA, but life is more than just code. That's why you'll see me making fun projects of things I love.</h3>
+<h3 align="center">We all have code in our DNA, but life is more exciting than just code.</h3>
 <br>
 
 <hr style="width:75%; margin:0 auto;">
@@ -64,7 +64,6 @@
 </p>
 <p align="left">
   <a href="https://instagram.com/_tomoyap_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/tom-phong-91a131292/" target="blank"><img align="center" src="./img/linkedin.png" alt="Linkedin" height="40" width="40" /></a>
 </p>
 
 <p align="right">
@@ -79,26 +78,16 @@
 
 <h3 align="center" style="font-size: 1.5rem;">My Favourite Things</h3>
 
-<p align="center"><b>Writing</b> - I love all forms of literature. Writing poems, short stories, and novels (wip) whenever the creative juices flow. Don't read physical books as much anymore.</p>
-<p align="center"><b>Music</b> - Appreciate and listen to almost all genres.</p>
-<p align="center"><b>Art</b> - Wanted to be an artist in the past. Still a fun hobby though.</p>
-<p align="center"><b>Nature</b> - Touching grass and going out for walks in the park. Also taking photos of nature scenery. It's why you'll find lots of flowers and plants in my projects.</p>
-<p align="center"><b>Anime</b> - Been watching anime my whole life. I'm more into romance stories these days. Favourite anime is Violet Evergarden.</p>
-<p align="center"><b>Games</b> - Helped shape my identity and creativity. Puzzle solving skills first stem from passion.</p>
-<p align="center"><b>Programming</b> - Why is this here? <i>Kidding.</i></p>
+<p align="center">Writing</p>
+<p align="center">Music</p>
+<p align="center">Art</p>
+<p align="center">Nature</p>
+<p align="center">Anime</p>
+<p align="center">Games</p>
+<p align="center">Programming</p>
 
 <br>
-
-<p align="center">
-  <i>And lastly,</i>
-</p>
-<p align="center"><b>Beautiful Things</b> - Like you <3.</p>
-
 <hr style="width:75%; margin:0 auto;">
-<br>
-
-<p align="center">Never stop loving yourself and being true to who you are. Don't be afraid to love what you love. <b>It's what makes life worth living.</b></p>
-
 <br>
 
 <p align="center">
