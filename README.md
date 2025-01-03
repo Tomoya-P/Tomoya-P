@@ -13,7 +13,7 @@
 <hr style="width:75%; margin:0 auto;">
 <br>
 
-<h3 align="center" style="font-size: 1.5rem;">Languages / Frameworks (in order of proficiency left > right)</h3>
+<h3 align="center" style="font-size: 1.5rem;">Obligatory Languages / Frameworks Section</h3>
 
 <p align="left">
   <b>Web Development</b>
@@ -72,19 +72,6 @@
 <p align="right">
   <a href='https://ko-fi.com/tomoyap' target='_blank'><img height='40' width="150" src='https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo-p-500.png' alt='Buy Coffee for Tomoya P' /></a>
 </p>
-
-<hr style="width:75%; margin:0 auto;">
-<br>
-
-<h3 align="center" style="font-size: 1.5rem;">My Favourite Things</h3>
-
-<p align="center">Writing</p>
-<p align="center">Music</p>
-<p align="center">Art</p>
-<p align="center">Nature</p>
-<p align="center">Anime</p>
-<p align="center">Games</p>
-<p align="center">Programming</p>
 
 <br>
 <hr style="width:75%; margin:0 auto;">
