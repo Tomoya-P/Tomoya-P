@@ -7,7 +7,7 @@
 <h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
 
 <br>
-<h3 align="center">We all have code in our DNA, but life is more exciting than just code.</h3>
+<h3 align="center">We all have code in our DNA.</h3>
 <br>
 
 <hr style="width:75%; margin:0 auto;">
@@ -57,20 +57,6 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <b>Socials</b>
-</p>
-<p align="left">
-  <a href="https://instagram.com/_tomoyap_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-</p>
-
-<p align="right">
-  <b>Support Me (only if you'd like)</b>
-</p>
-<p align="right">
-  <a href='https://ko-fi.com/tomoyap' target='_blank'><img height='40' width="150" src='https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo-p-500.png' alt='Buy Coffee for Tomoya P' /></a>
 </p>
 
 <br>
