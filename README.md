@@ -7,7 +7,7 @@
 <h1 align="center">Welcome, I'm Tomoya P. :blue_heart:</h1>
 
 <br>
-<h3 align="center">We all have code in our DNA.</h3>
+<h3 align="center">We all have code in our DNA. Wowie!</h3>
 <br>
 
 <hr style="width:75%; margin:0 auto;">
